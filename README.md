@@ -1,7 +1,7 @@
 <h1 align="center"> Springboot 3.0.5 + Kotlin - API do BestCommerce da WS Work Sistemas!</h1>
 
 #### Projeto proposto pelo teste Técnico da empresa WS Work Sistemas, cujo deram escolha entre fazer com Spring Boot usando Java, Kotlin ou Groovy.
-
+#### Feito por: Iasmim Ferreira de Godoy, concluído em: 19/04/2023
 ##### Linguagem escolhida: Kotlin;
 ##### Packaging: Jar 
 ##### Java: 17
