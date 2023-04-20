@@ -32,7 +32,7 @@
 <p align="center"><b>Ferramentas utilizadas:</b></p>
 <p align="center">IntelliJ IDEA Community Edition 2023</p>
 <p align="center">Insomnia</p>
-p align="center">Ngrok</p>
+<p align="center">Ngrok</p>
 <h3 align="center">Veja a API do projeto Best Commerce funcionando logo abaixo!</h3>
 <h4 align="center">CRUD da entidade <b>Users</b></h4>
 
