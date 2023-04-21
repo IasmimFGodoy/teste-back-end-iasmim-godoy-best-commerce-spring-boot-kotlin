@@ -15,7 +15,7 @@
 > Abra o projeto no IntelliJ e digite no terminal:<br>
 > `gradlew.bat build`
 >
-> <b>Se estiver no Linux</b><br>:
+> <b>Se estiver no Linux</b>:<br>
 > Abra o projeto no IntelliJ e digite no terminal:<br>
 > `./gradlew build`
 
@@ -80,6 +80,7 @@ https://user-images.githubusercontent.com/106850969/233148916-d4401908-9d1a-4bd1
 <h4 align="center">Para o dashboard principal da página, criei dois endpoints separados: myproducts para exibir os produtos dos containers principais e um endpoint para exibir os produtos do carrossel de imagens, veja abaixo:</h4>
 
 <h5> Endpoint para os produtos em destaque: </h5>
+
 ![image](https://user-images.githubusercontent.com/106850969/233149912-9900473d-a71b-4d12-8dda-37847b2fb73d.png)
 
 https://user-images.githubusercontent.com/106850969/233150206-ce332b41-248b-441d-9c85-ea0b4fcadd33.mp4
